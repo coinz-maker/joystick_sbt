@@ -1,0 +1,20 @@
+{
+  "name": "JUNIOR SBT#",
+  "description": "Joystick SBT collection",
+  "image": "https://raw.githubusercontent.com/coinz-maker/joystick_sbt/refs/heads/main/images/content.jpg",
+  "content_url": "https://raw.githubusercontent.com/coinz-maker/joystick_sbt/refs/heads/main/images/content.mp4",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": "Legendary Participant"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "J O Y S T I C K",
+        "uri": "https://t.me/joystickpro"
+      }
+  ],
+  "compiler": "TON compiler"
+}
